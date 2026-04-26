@@ -64,16 +64,12 @@ if (!/^[a-zA-Z0-9-]+$/.test(username)) {
 
       const msg = `${d.message}
 
-📘 *TUTORIAL PASANG ZIVPN*
+📘 CARA PASANG UDP ZIVPN 
 
-HARAP TONTON DAN SIMAK.!! 
-📂 Google Drive:
-https://drive.google.com/file/d/1BAPWA4ejDsq0IcXxJt72GfjD4224iDpI/view?usp=sharing
+!! DIJAMIN BISA.. JIKA DISIMAK !! 
 
-📌 *Langkah Singkat:*
-1️⃣ Buka link di atas  
-2️⃣ Ikuti panduan di dalam video
-3️⃣ Selesai & Connect 🚀  
+LINK TOTURIAL : 
+https://drive.google.com/file/d/1p9tf_WPoAkIqpVuQROGp_Bsb5-A6c6SY/view?usp=drivesdk
 `;
 
         return resolve(msg);

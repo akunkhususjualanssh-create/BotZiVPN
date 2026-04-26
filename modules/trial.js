@@ -66,14 +66,12 @@ if (!/^[a-zA-Z0-9-]+$/.test(username)) {
       // Pesan untuk Telegram / Bot
       const msg = `${d.message}
 
-📘 *TUTORIAL PASANG ZIVPN*
-📂 Google Drive:
-https://drive.google.com/file/d/1BAPWA4ejDsq0IcXxJt72GfjD4224iDpI/view?usp=sharing
+📘 CARA PASANG UDP ZIVPN 
 
-📌 *Langkah Singkat:*
-1️⃣ Buka link di atas  
-2️⃣ Ikuti panduan di dalam video
-3️⃣ Selesai & Connect 🚀  
+!! DIJAMIN BISA.. JIKA DISIMAK !! 
+
+LINK TOTURIAL : 
+https://drive.google.com/file/d/1p9tf_WPoAkIqpVuQROGp_Bsb5-A6c6SY/view?usp=drivesdk
 `;
 
         return resolve(msg);

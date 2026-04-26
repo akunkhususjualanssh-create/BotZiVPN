@@ -61,7 +61,7 @@ if (!/^[a-zA-Z0-9-]+$/.test(username)) {
 
 📘 *TUTORIAL PASANG ZIVPN*
 📂 Google Drive:
-https://drive.google.com/file/d/1BAPWA4ejDsq0IcXxJt72GfjD4224iDpI/view?usp=sharing)
+https://drive.google.com/file/d/1p9tf_WPoAkIqpVuQROGp_Bsb5-A6c6SY/view?usp=drivesdk
 
 📌 *Langkah Singkat:*
 1️⃣ Buka link di atas  
